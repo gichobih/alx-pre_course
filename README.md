@@ -1,2 +1,2 @@
 
-i am an alx student learning software engineering
+I am a student learning software engineering
