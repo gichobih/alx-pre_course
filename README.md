@@ -1,1 +1,1 @@
-my first read me.
+I am a software engineering student
